@@ -1,0 +1,21 @@
+{
+  "name": "sifttt-csv",
+  "version": "0.1.0",
+  "description": "A CSV transform for sifttt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Birbeck <mark.birbeck@gmail.com> (http://markbirbeck.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^1.1.7"
+  },
+  "peerDependencies": {
+    "sifttt": "^0.86.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.1"
+  }
+}
