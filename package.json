@@ -1,5 +1,5 @@
 {
-  "name": "sifttt-csv",
+  "name": "sifttt-transform-csv",
   "version": "0.2.3",
   "description": "A CSV transform for sifttt.",
   "main": "index.js",
